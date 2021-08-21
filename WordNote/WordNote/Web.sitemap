@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap>
+
+  <siteMapNode url="default.aspx" title="Home"  description="메인페이지">
+
+    <siteMapNode url="~/word/WordList" title="영단어"  description="">
+      <siteMapNode url="~/word/WordQuiz" title="영단어 퀴즈"  description=""  />
+      <siteMapNode url="~/word/WordInsert" title="영단어 등록"  description=""  />
+      <siteMapNode url="~/word/RecommendWord" title="추천 영단어"  description=""  />
+    </siteMapNode>
+
+    <siteMapNode url="~/idiom/IdiomList" title="사자성어"  description="">
+      <siteMapNode url="~/idiom/IdiomQuiz" title="사자성어 퀴즈"  description="" />
+    </siteMapNode>
+
+    <siteMapNode url="~/translator" title="번역기 검색"  description="">
+    </siteMapNode>
+
+  </siteMapNode>
+</siteMap>
+
